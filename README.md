@@ -1,5 +1,5 @@
 # Crop_Price_prediction
-The dataset with the following features: State, Crop, CostCultivation, CostCultivation2, Production, Yield, Temperature, RainFallAnnual, and Price (target variable). Since the target is already present in the dataset, this is a supervised learning task, and because the target feature is continuous, the prediction is done using regression models.
+The dataset is with the following features: State, Crop, CostCultivation, CostCultivation2, Production, Yield, Temperature, RainFallAnnual, and Price (target variable). Since the target is already present in the dataset, this is a supervised learning task, and because the target feature is continuous, the prediction is done using regression models.
 
 In this project, I predicted the price using three models: Linear Regression, Support Vector Regression, and Decision Tree Regression. Their R2 scores and mean square errors were compared to evaluate performance.
 
